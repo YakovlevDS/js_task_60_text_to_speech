@@ -1,14 +1,22 @@
 {
+
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "yakovlevds.github",
+  "name": "TEXT TO SPEECH",
   "orientation": "any",
   "scope": "/",
-  "short_name": "yakovlevds.github",
+  "short_name": "TTS",
+  "description": "TTS PWA",
   "start_url": "/",
   "theme_color": "#ffffff",
   "icons": [
+    {
+      "src": "path/to/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
     {
       "src": "images/512x512.png",
       "type": "image/png",
